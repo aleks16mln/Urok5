@@ -11,6 +11,7 @@ for (int i = 0; i < randomArray.Length; i++)
         randomArray[i] = new Random().Next(100,1000);
         Console.Write(randomArray[i] + " ");
     }
+Console.WriteLine();
 int count = 0;
 for (int x = 0; x < randomArray.Length; x++)
     {
