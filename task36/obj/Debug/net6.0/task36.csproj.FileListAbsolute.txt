@@ -1,0 +1,15 @@
+C:\urok5\task36\bin\Debug\net6.0\task36.exe
+C:\urok5\task36\bin\Debug\net6.0\task36.deps.json
+C:\urok5\task36\bin\Debug\net6.0\task36.runtimeconfig.json
+C:\urok5\task36\bin\Debug\net6.0\task36.dll
+C:\urok5\task36\bin\Debug\net6.0\task36.pdb
+C:\urok5\task36\obj\Debug\net6.0\task36.csproj.AssemblyReference.cache
+C:\urok5\task36\obj\Debug\net6.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\urok5\task36\obj\Debug\net6.0\task36.AssemblyInfoInputs.cache
+C:\urok5\task36\obj\Debug\net6.0\task36.AssemblyInfo.cs
+C:\urok5\task36\obj\Debug\net6.0\task36.csproj.CoreCompileInputs.cache
+C:\urok5\task36\obj\Debug\net6.0\task36.dll
+C:\urok5\task36\obj\Debug\net6.0\refint\task36.dll
+C:\urok5\task36\obj\Debug\net6.0\task36.pdb
+C:\urok5\task36\obj\Debug\net6.0\task36.genruntimeconfig.cache
+C:\urok5\task36\obj\Debug\net6.0\ref\task36.dll
